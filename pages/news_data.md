@@ -22,11 +22,25 @@ Google alerts are set on a list of keywords in several languages and every week 
 
 ### Approach
 
-- Create 2 separate modules; one for the retrieving the articles and one for transforming (ander woord) them. 
-- News module will retrieve articles using Bing news API and store the found articles on Google Bigquery
-- Break up task that need to be performed by ChatGPT: 
+- Create 2 separate modules; one for the retrieving the articles and one for reviewing them. 
+- News module: retrieve articles using Bing news API and store the found articles on Google Bigquery
+- ChatGPT Prompt engineerding: break up the task that need to be performed by ChatGPT: 
     1. Determine relevance 
     2. Extract datapoints
     3. Translate (depending on the language) and return summary
+- Reviewing module: 
+    1. Retrieve data from Google Bigquery
+    2. Process data using the steps above
+    3. Load transformed data to Google Bigquery
+    4. Ingest extracted datapoints to Salesforce 
 
-## TBC
+## Addressing Key Issues
+
+### Labour
+With the new solution, the individual now only needs to check one document, eliminating the need to click through multiple links and articles to find the necessary information. This document contains the datapoints that were extracted and uploaded to Salesforce.
+
+### Time
+The individual previously in charge of this task reported spending about 4 hours weekly on it. After implementing the new solution, they now spend only around 30 minutes per week. This significant time reduction greatly enhances operational efficiency.
+
+## Solution Diagram
+WIP

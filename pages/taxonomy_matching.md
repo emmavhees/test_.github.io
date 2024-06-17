@@ -39,6 +39,6 @@ The cost associated with our solution primarily stems from the resource use of t
 ### Accuracy
 Leveraging our newly created test set, we measured the accuracy for both the previous and new models. The new model yields an accuracy rate of approximately 97%, compared to the previous solution's accuracy of around 54%, demonstrating substantial improvement.
 
-### Solution diagram
+## Solution diagram
 
 ![Taxononmy matching ](..\images\taxonomy_matching.png)
