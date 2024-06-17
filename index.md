@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     .custom-font {
         font-family: 'Verdana', Geneva, sans-serif;
         color: #9C9C9C;
@@ -10,7 +10,7 @@
     flex: 33.33%;
     padding: 10px;
   }
-</style>
+</style> -->
 
 <!-- # Regular Markdown Heading
 
@@ -29,7 +29,7 @@ a positive impact on society using technology. Proven experience in creating ins
 the art methods and technologies.
 
 
-<div class="container">
+<!-- <div class="container">
   <div class="column" style="background-color:#FFFFFF;">
     <h2>Column 1</h2>
     <p>Some text in column 1.</p>
@@ -42,7 +42,7 @@ the art methods and technologies.
     <h2>Column 3</h2>
     <p>Some text in column 3.</p>
   </div>
-</div>
+</div> -->
 
 ## Projects
 
