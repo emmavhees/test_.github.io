@@ -41,12 +41,12 @@ the art methods and technologies.
     <p>find my most recent Data Science Projects here </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-  <img src="images\print-home-plant-in-a-pot-and-watering-can.png" alt="personal" style="width: 100%; height: auto; max-width: 100%; max-height: 500px;" />
+  <img src="images\print-home-plant-in-a-pot-and-watering-can.png" alt="personal" style="width: 100%; height: auto; max-width: 100%; max-height: 190px;" />
     <h2> Personal </h2>
     <p>what I work on in my free time</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-  <img src="images\print-texting-hand-with-retro-phone-1.png" alt="personal" style="width: 100%; height: auto; max-width: 100%; max-height: 500px;" />
+  <img src="images\print-texting-hand-with-retro-phone-1.png" alt="personal" style="width: 100%; height: auto; max-width: 100%; max-height: 190px;" />
     <h2> Contact Me </h2>
     <!-- of dus iets van een contact card ofzo (linkedin ook ?) -->
     <p>emmavanhees@live.nl</p>
