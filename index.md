@@ -45,7 +45,8 @@ the art methods and technologies.
   <div class="column" style="background-color:#FFFFFF;">
   <img src="images\print-assembling-jigsaw-puzzle-and-solving-problems-1.png" alt="puzzle" style="height: auto; width: auto; max-height: 190px;" />
     <h2> Data Science Cases </h2>
-    <p>find my most recent Data Science Projects <a href="pages/taxonomy_matching.html">here </a> </p>
+    <p><a href="pages/taxonomy_matching.html">Product Categorization for CO2 Emission Compensation </a> </p>
+    <p><a href="pages/news_data.html">Using Bing News API and ChatGPT for Updating Potential Customer Information in Salesforce </a> </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
   <img src="images\print-home-plant-in-a-pot-and-watering-can.png" alt="personal" style="width: 100%; height: auto; width: auto; max-height: 190px;" />
