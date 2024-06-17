@@ -18,7 +18,7 @@
 <!-- ![Emma](images\emma-website-logo-green.png) -->
 
 
-## About Me
+# About Me
 
 Data Science and Artificial Intelligence alumnus passionate about having
 a positive impact on society using technology. Proven experience in creating insights, algorithms and pipelines for purpose whilst using state of
