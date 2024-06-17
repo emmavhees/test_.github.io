@@ -1,7 +1,7 @@
 <style>
     .custom-font {
-        font-family: Georgia, serif;
-        color: #00000;
+        /* font-family: Georgia, serif; */
+        color: #f5d3e9;
     }
     .container {
         display: flex;
@@ -24,6 +24,13 @@ Data Science and Artificial Intelligence alumnus passionate about having
 a positive impact on society using technology. Proven experience in creating insights, algorithms and pipelines for purpose whilst using state of
 the art methods and technologies.
 
+
+<p class="custom-font">---- Please keep in mind this page is still a work in progress --- <p>
+
+<div style="margin: 100px 0;">
+  <!-- Additional content with spacing -->
+</div>
+
 <!-- ## Projects -->
 
 <!-- [Project 1](/projects/taxonomy_matching.md) -->
@@ -38,7 +45,7 @@ the art methods and technologies.
   <div class="column" style="background-color:#FFFFFF;">
   <img src="images\print-assembling-jigsaw-puzzle-and-solving-problems-1.png" alt="puzzle" style="height: auto; width: auto; max-height: 190px;" />
     <h2> Data Science Cases </h2>
-    <p>find my most recent Data Science Projects here </p>
+    <p>find my most recent Data Science Projects <a href="pages/taxonomy_matching.html">here </a> </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
   <img src="images\print-home-plant-in-a-pot-and-watering-can.png" alt="personal" style="width: 100%; height: auto; width: auto; max-height: 190px;" />
