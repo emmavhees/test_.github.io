@@ -1,6 +1,6 @@
-<!-- <style>
+<style>
     .custom-font {
-        font-family: 'Verdana', Geneva, sans-serif;
+        font-family: Georgia, serif;
         color: #9C9C9C;
     }
     .container {
@@ -10,17 +10,17 @@
     flex: 33.33%;
     padding: 10px;
   }
-</style> -->
+</style>
 
-<!-- # Regular Markdown Heading
+<!-- <!-- # Regular Markdown Heading -->
 
-<p class="custom-font">This is a paragraph with a custom font and color.</p>
+<!-- <p class="custom-font">This is a paragraph with a custom font and color.</p> -->
 
-Normal text follows here. -->
+<!-- Normal text follows here.  -->
 
 # Welcome to My GitHub Page
 
-This is a simple GitHub Page created using just Markdown.
+<!-- <p class="custom-font">Emma van Hees</p> -->
 
 ## About Me
 
@@ -28,27 +28,28 @@ Data Science and Artificial Intelligence alumnus passionate about having
 a positive impact on society using technology. Proven experience in creating insights, algorithms and pipelines for purpose whilst using state of
 the art methods and technologies.
 
+<!-- ## Projects -->
 
-<!-- <div class="container">
+<!-- - [Project 1](/projects/taxonomy_matching.md).
+- [Project 2](https://github.com/username/project2) -->
+
+<div class="container">
   <div class="column" style="background-color:#FFFFFF;">
-    <h2>Column 1</h2>
+    <h2> <a href="/projects/taxonomy_matching.md">Data Science Projects</a> </h2>
     <p>Some text in column 1.</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <h2>Column 2</h2>
+    <h2> <a href="/projects/news_data.md">Personal </a></h2>
     <p>Some text in column 2.</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <h2>Column 3</h2>
+    <h2> <a href="/projects/index.md">Contact </a> </h2>
     <p>Some text in column 3.</p>
   </div>
-</div> -->
+</div>
 
-## Projects
 
-- [Project 1](/projects/taxonomy_matching.md).
-- [Project 2](https://github.com/username/project2)
 
-## Contact
+<!-- ## Contact
 
-You can reach me at [email@example.com](mailto:email@example.com).
+You can reach me at [email@example.com](mailto:email@example.com). -->
