@@ -35,7 +35,7 @@ the art methods and technologies.
 <div class="container">
   <div class="column" style="background-color:#FFFFFF;">
   <img src="images\print-assembling-jigsaw-puzzle-and-solving-problems-1.png" alt="puzzle" style="height: auto; width: auto; max-height: 190px;" />
-    <h2> Data Science Cases </h2>
+    <h2> Data Science Projects </h2>
     <p><a href="pages/taxonomy_matching.html">Product Categorization for CO2 Emission Compensation </a> </p>
     <p><a href="pages/news_data.html">Using Bing News API and ChatGPT for Updating Potential Customer Information in Salesforce </a> </p>
   </div>
