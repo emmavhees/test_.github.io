@@ -18,8 +18,9 @@
 
 <!-- Normal text follows here.  -->
 
-# Welcome to My GitHub Page
+<!-- # Welcome to My GitHub Page -->
 
+![Emma](images\emma-website-logo-green.png)
 <!-- <p class="custom-font">Emma van Hees</p> -->
 
 ## About Me
@@ -30,7 +31,7 @@ the art methods and technologies.
 
 <!-- ## Projects -->
 
-[Project 1](/projects/taxonomy_matching.md)
+<!-- [Project 1](/projects/taxonomy_matching.md) -->
 
 <!-- - [Project 1](/projects/taxonomy_matching.md).
 - [Project 2](https://github.com/username/project2) -->
@@ -41,11 +42,11 @@ the art methods and technologies.
     <p>Some text in column 1.</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <h2> <a href="/projects/news_data.md">Personal </a></h2>
+    <h2> <a href="/projects/news_data.html">Personal </a></h2>
     <p>Some text in column 2.</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <h2> <a href="/projects/index.md">Contact </a> </h2>
+    <h2> <a href="/projects/index.html">Contact </a> </h2>
     <p>Some text in column 3.</p>
   </div>
 </div>
