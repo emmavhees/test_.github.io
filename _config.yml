@@ -1,3 +1,4 @@
-theme: jekyll-theme-serif
+# theme: jekyll-theme-serif
+theme: jekyll-theme-minimal
 # baseurl: "/jekyll-serif-theme/"
 name: About me

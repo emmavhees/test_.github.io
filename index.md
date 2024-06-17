@@ -30,19 +30,26 @@ the art methods and technologies.
 
 <!-- - [Project 1](/projects/taxonomy_matching.md).
 - [Project 2](https://github.com/username/project2) -->
+<!-- <a href="projects/taxonomy_matching.html">Data Science Projects</a> 
+<a href="/projects/news_data.html">Personal </a>
+-->
 
 <div class="container">
   <div class="column" style="background-color:#FFFFFF;">
-    <h2> <a href="projects/taxonomy_matching.html">Data Science Projects</a> </h2>
-    <p>Some text in column 1.</p>
+  <!-- hier plaatje toevoegen van een poppetje met data analysis iets -->
+    <h2> Data Science Cases </h2>
+    <p>find my most recent Data Science Projects here </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <h2> <a href="/projects/news_data.html">Personal </a></h2>
-    <p>Some text in column 2.</p>
+  <!-- hier ok iets van plaatje met hobbyen  -->
+    <h2> Personal </h2>
+    <p>what I work on in my free time</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <h2> <a href="/projects/index.html">Contact </a> </h2>
-    <p>Some text in column 3.</p>
+  <!-- en hier plaatje van email of telefoon oid -->
+    <h2> Contact Me </h2>
+    <!-- of dus iets van een contact card ofzo (linkedin ook ?) -->
+    <p>emmavanhees@live.nl</p>
   </div>
 </div>
 
