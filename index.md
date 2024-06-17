@@ -1,7 +1,7 @@
 <style>
     .custom-font {
         font-family: Georgia, serif;
-        color: #9C9C9C;
+        color: #00000;
     }
     .container {
         display: flex;
@@ -13,11 +13,11 @@
 </style>
 <!-- <p class="custom-font">This is a paragraph with a custom font and color. -->
 <div style="text-align: center;">
-  <img src="images\emma-website-logo-big.png" alt="Emma" style="width: 100%; max-width: 100%;" />
+  <img src="images\emma-website-logo-black.png" alt="Emma" style="width: 100%; max-width: 100%;" />
 </div>
 <!-- ![Emma](images\emma-website-logo-green.png) -->
 
-
+<!-- <h1 class="custom-font"> About me </h1> -->
 # About Me
 
 Data Science and Artificial Intelligence alumnus passionate about having
@@ -36,17 +36,17 @@ the art methods and technologies.
 
 <div class="container">
   <div class="column" style="background-color:#FFFFFF;">
-  <!-- hier plaatje toevoegen van een poppetje met data analysis iets -->
+  <img src="images\print-assembling-jigsaw-puzzle-and-solving-problems-1.png" alt="puzzle" style="width: 100%; max-width: 100%;" />
     <h2> Data Science Cases </h2>
     <p>find my most recent Data Science Projects here </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-  <!-- hier ok iets van plaatje met hobbyen  -->
+  <img src="images\print-home-plant-in-a-pot-and-watering-can.png" alt="personal" style="width: 100%; max-width: 100%;" />
     <h2> Personal </h2>
     <p>what I work on in my free time</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-  <!-- en hier plaatje van email of telefoon oid -->
+  <img src="images\print-texting-hand-with-retro-phone-1.png" alt="personal" style="width: 100%; max-width: 100%;" />
     <h2> Contact Me </h2>
     <!-- of dus iets van een contact card ofzo (linkedin ook ?) -->
     <p>emmavanhees@live.nl</p>
