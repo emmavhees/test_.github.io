@@ -11,20 +11,12 @@
     padding: 10px;
   }
 </style>
-
-<!-- <!-- # Regular Markdown Heading -->
-
-<!-- <p class="custom-font">This is a paragraph with a custom font and color.</p> -->
-
-<!-- Normal text follows here.  -->
-
-<!-- # Welcome to My GitHub Page "width:20%; -->
-
-<div style="margin: auto;">
-
-![Emma](images\emma-website-logo-green.png)
-<!-- <p class="custom-font">Emma van Hees</p> -->
+<!-- <p class="custom-font">This is a paragraph with a custom font and color. -->
+<div style="text-align: center;">
+  <img src="images\emma-website-logo-green.png" alt="Emma" />
 </div>
+<!-- ![Emma](images\emma-website-logo-green.png) -->
+
 
 ## About Me
 
