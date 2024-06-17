@@ -35,7 +35,7 @@ the art methods and technologies.
 
 <div class="container">
   <div class="column" style="background-color:#FFFFFF;">
-    <h2> <a href="test_.github.io/projects/taxonomy_matching.md">Data Science Projects</a> </h2>
+    <h2> <a href="projects/taxonomy_matching.md">Data Science Projects</a> </h2>
     <p>Some text in column 1.</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
