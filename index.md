@@ -30,12 +30,14 @@ the art methods and technologies.
 
 <!-- ## Projects -->
 
+[Project 1](/projects/taxonomy_matching.md)
+
 <!-- - [Project 1](/projects/taxonomy_matching.md).
 - [Project 2](https://github.com/username/project2) -->
 
 <div class="container">
   <div class="column" style="background-color:#FFFFFF;">
-    <h2> <a href="projects/taxonomy_matching.md">Data Science Projects</a> </h2>
+    <h2> <a href="projects/taxonomy_matching.html">Data Science Projects</a> </h2>
     <p>Some text in column 1.</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
