@@ -16,8 +16,8 @@ Google alerts are set on a list of keywords in several languages and every week 
 
 ## Improved Solution
 ### New Solution
-- Utilize Bings News API (add link) to receive news articles based on different keywords and in different regions.
-- Utilize (find synonym) ChatGPT for determining relevance of the articles and extracting the neccessary datapoints. 
+- Utilize [Bings News API](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft.bingsearch?tab=overview) to receive news articles based on different keywords and in different regions.
+- Leverage ChatGPT for determining relevance of the articles and extracting the neccessary datapoints. 
 - Run this pipeline on Google Cloud Platform on a set schedule. 
 
 ### Approach
