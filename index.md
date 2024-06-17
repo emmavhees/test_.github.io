@@ -1,7 +1,7 @@
 <style>
     .custom-font {
         /* font-family: Georgia, serif; */
-        color: #f5d3e9;
+        color: #ffa4de;
     }
     .container {
         display: flex;
