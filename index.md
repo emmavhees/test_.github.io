@@ -18,11 +18,13 @@
 
 <!-- Normal text follows here.  -->
 
-<!-- # Welcome to My GitHub Page -->
+<!-- # Welcome to My GitHub Page "width:20%; -->
+
+<div style="margin: auto;">
 
 ![Emma](images\emma-website-logo-green.png)
 <!-- <p class="custom-font">Emma van Hees</p> -->
-
+</div>
 ## About Me
 
 Data Science and Artificial Intelligence alumnus passionate about having
