@@ -42,13 +42,14 @@ the art methods and technologies.
   <div class="column" style="background-color:#ffffff;">
   <img src="images\print-home-plant-in-a-pot-and-watering-can.png" alt="personal" style="width: 100%; height: auto; width: auto; max-height: 190px;" />
     <h2> Personal </h2>
-    <p>what I work on in my free time</p>
+    <p>What I work on in my free time</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
   <img src="images\print-texting-hand-with-retro-phone-1.png" alt="personal" style="width: 100%; height: auto; width: auto; max-height: 190px;" />
     <h2> Contact Me </h2>
     <!-- of dus iets van een contact card ofzo (linkedin ook ?) -->
-    <p>emmavanhees@live.nl</p>
+    <p>You can contact me at <a href="mailto:emmavanhees@live.nl">emmavanhees@live.nl</a>.</p>
+    <p>Or you can add me on <a href="https://www.linkedin.com/in/emmavhees/">LinkedIn</a> </p>
   </div>
 </div>
 
