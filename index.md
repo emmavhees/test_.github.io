@@ -42,7 +42,7 @@ the art methods and technologies.
   <div class="column" style="background-color:#ffffff;">
   <img src="images\print-home-plant-in-a-pot-and-watering-can.png" alt="personal" style="width: 100%; height: auto; width: auto; max-height: 190px;" />
     <h2> Personal </h2>
-    <p>What I work on in my free time</p>
+    <p>What I work on in my <a href="pages/free_time.html">free time </a></p>
   </div>
   <div class="column" style="background-color:#ffffff;">
   <img src="images\print-texting-hand-with-retro-phone-1.png" alt="personal" style="width: 100%; height: auto; width: auto; max-height: 190px;" />
