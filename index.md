@@ -13,7 +13,7 @@
 </style>
 <!-- <p class="custom-font">This is a paragraph with a custom font and color. -->
 <div style="text-align: center;">
-  <img src="images\emma-website-logo-green.png" alt="Emma" />
+  <img src="images\emma-website-logo-green.png" alt="Emma" style="width: 100%; max-width: 100%;" />
 </div>
 <!-- ![Emma](images\emma-website-logo-green.png) -->
 
