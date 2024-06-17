@@ -25,6 +25,7 @@
 ![Emma](images\emma-website-logo-green.png)
 <!-- <p class="custom-font">Emma van Hees</p> -->
 </div>
+
 ## About Me
 
 Data Science and Artificial Intelligence alumnus passionate about having
