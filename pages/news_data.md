@@ -28,3 +28,5 @@ Google alerts are set on a list of keywords in several languages and every week 
     1. Determine relevance 
     2. Extract datapoints
     3. Translate (depending on the language) and return summary
+
+## TBC

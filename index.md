@@ -25,21 +25,12 @@ a positive impact on society using technology. Proven experience in creating ins
 the art methods and technologies.
 
 
-<p class="custom-font">---- Please keep in mind this page is still a work in progress --- <p>
+<p class="custom-font">---- Please note this website is still a work in progress --- <p>
 
 <div style="margin: 100px 0;">
   <!-- Additional content with spacing -->
 </div>
 
-<!-- ## Projects -->
-
-<!-- [Project 1](/projects/taxonomy_matching.md) -->
-
-<!-- - [Project 1](/projects/taxonomy_matching.md).
-- [Project 2](https://github.com/username/project2) -->
-<!-- <a href="projects/taxonomy_matching.html">Data Science Projects</a> 
-<a href="/projects/news_data.html">Personal </a>
--->
 
 <div class="container">
   <div class="column" style="background-color:#FFFFFF;">
