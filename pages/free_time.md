@@ -33,4 +33,4 @@ In my spare time I love working on the following things:
 </div>
 
 
-[Back to main page](../index.md)
+<a href="../index.html">Back to main page </a>
