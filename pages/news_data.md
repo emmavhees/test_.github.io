@@ -43,7 +43,7 @@ With the new solution, the individual now only needs to check one document, elim
 The individual previously in charge of this task reported spending about 4 hours weekly on it. After implementing the new solution, they now spend only around 30 minutes per week. This significant time reduction greatly enhances operational efficiency.
 
 ## Solution Diagram
-![News Data ](..\images\solution_diagram_news_1.png)
+![News Data ](..\images\news_diagram.png)
 
 <!-- 100% privacy-first analytics -->
 <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
