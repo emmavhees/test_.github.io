@@ -24,9 +24,10 @@ Data Science and Artificial Intelligence alumnus passionate about having
 a positive impact on society using technology. Proven experience in creating insights, algorithms and pipelines for purpose whilst using state of
 the art methods and technologies. 
 
-#### Skills and Interests
+### Skills and Interests
 
 **Technical**: Python, Google Cloud Platform (Pub/Sub, VertexAI, Cloud run, Cloud functions, Bigquery), Docker, Airflow, Git, Scrum, Pytorch, SQL, PowerBI
+
 **Interests**: Sustainability, Analytics, Artificial Intelligence, Innovation, Operational Efficiency, Automation
 
 
