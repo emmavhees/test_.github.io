@@ -44,4 +44,8 @@ In my spare time I love working on the following things:
 </div>
 
 
+<!-- 100% privacy-first analytics -->
+<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
+
 <!-- <a href="../index.md">Back to main page </a> -->

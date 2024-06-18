@@ -44,3 +44,7 @@ The individual previously in charge of this task reported spending about 4 hours
 
 ## Solution Diagram
 ![News Data ](..\images\solution_diagram_news_1.png)
+
+<!-- 100% privacy-first analytics -->
+<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
