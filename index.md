@@ -26,7 +26,7 @@ the art methods and technologies.
 
 #### Skills and Interests
 
-**Technical**: Python, Google Cloud Platform (Pub/Sub, VertexAI, Cloud run, Cloud functions), Docker, Airflow, Git, Scrum, Pytorch, SQL, PowerBI
+**Technical**: Python, Google Cloud Platform (Pub/Sub, VertexAI, Cloud run, Cloud functions, Bigquery), Docker, Airflow, Git, Scrum, Pytorch, SQL, PowerBI
 **Interests**: Sustainability, Analytics, Artificial Intelligence, Innovation, Operational Efficiency, Automation
 
 
