@@ -1,16 +1,3 @@
-<!-- <style>
-    .custom-font {
-        /* font-family: Georgia, serif; */
-        color: #f5d3e9;
-    }
-    .container {
-        display: flex;
-    }
-    .column {
-    flex: 33.33%;
-    padding: 10px;
-  }
-</style> -->
 <style>
   .container {
     display: flex;

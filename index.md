@@ -44,6 +44,7 @@ the art methods and technologies.
     <h2> Data Science Projects </h2>
     <p><a href="pages/taxonomy_matching.html">Product Categorization for CO2 Emission Compensation </a> </p>
     <p><a href="pages/news_data.html">Using Bing News API and ChatGPT for Updating Potential Customer Information in Salesforce </a> </p>
+    <p><a href="pages/contract_datapoints.html">Automated Extraction of Data Points from Legal Contracts and CRM ingestion </a></p>
   </div>
   <div class="column" style="background-color:#ffffff;">
   <img src="images\print-home-plant-in-a-pot-and-watering-can.png" alt="personal" style="width: 100%; height: auto; width: auto; max-height: 190px;" />
@@ -66,7 +67,8 @@ the art methods and technologies.
 </div>
 
 
-Illustration by <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
+Illustration by <a href="https://icons8.com/illustrations/author/RogqKjMRAQ79">xopolin</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 
 <!-- ## Contact
 
