@@ -8,7 +8,7 @@
 # Automated Extraction of Data Points from Legal Contracts ingested into Salesforce
 
 <div style="text-align: center; color: #ffa4de">
-  <img src="..\images\print-hands-typing-on-vintage-typewriter-3.png" alt="Emma" style="width: 50%; max-width: 50%;" />
+  <img src="..\images\print-hands-typing-on-vintage-typewriter-3.png" alt="Emma" style="width: 40%; max-width: 40%;" />
   <p> Coming Soon</p>
 </div>
 
